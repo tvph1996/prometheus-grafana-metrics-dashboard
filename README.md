@@ -6,7 +6,11 @@ This project implements a comprehensive observability solution for a microservic
 
 The system consists of a FastAPI-based REST gateway and a Python gRPC backend service backed by MongoDB. The primary goal was to implement a full observability pipeline to track the "Four Golden Signals" across multi-protocol communications.
 <img width="1542" height="741" alt="image" src="https://github.com/user-attachments/assets/11fab66f-58db-499a-95f6-c732fccd8591" />
+
+<img width="1920" height="638" alt="image" src="https://github.com/user-attachments/assets/9a7599fc-d92f-4c26-be6e-634c585cdcff" />
+
 <img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/6cab6d10-8806-4c46-a151-8bbe40694fdb" />
+
 <img width="1920" height="517" alt="image" src="https://github.com/user-attachments/assets/1062ca3c-10f1-417e-87a2-8a77bcf39e59" />
 
 
